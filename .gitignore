@@ -31,5 +31,6 @@
 *.out
 *.app
 
-#Subdirectories
+#(HCG) Objetod y creados  Subdirectories
 build/*
+.cmaketools.json
